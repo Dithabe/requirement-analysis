@@ -51,6 +51,6 @@ analyzes, and defines the requirements of the software product to be developed.<
   <li>They help in identifying and organizing system reqiurements</li>
   <li>They facilitate communication among stakeholders and development team</li>
 </ul>
+![alx-booking-uc.png](https://github.com/user-attachments/assets/7ead360c-9011-466c-a6ca-80a09e7445e8)
 
-![alx-booking-uc png](https://github.com/user-attachments/assets/1ac16305-006e-4fb9-8259-4eadf77ba8f9)
 
