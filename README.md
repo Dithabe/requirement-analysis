@@ -42,3 +42,15 @@ analyzes, and defines the requirements of the software product to be developed.<
   <li>Scalability - Archiving of old data, increasing the database (to handle increased queries) and handling a high volume of data is done with various Database Management Systems</li>
   <li>Performance - Through Redis, a caching server, requests made for recent data is readily available reducing the loading time on the app side</li>
 </ul>
+
+<h2>Use Case Diagrams</h2>
+<p>Use case diagrams serve as visual representation of interactions between users and the system. in the diagrams, identity actors such as guests or registered admin users get to interact with several use cases such as searching and booking of the desired properties</p>
+<p>Benefits of Use Cases Diagrams:</p>
+<ul>
+  <li>They provide a clear visual representation of system functionalities</li>
+  <li>They help in identifying and organizing system reqiurements</li>
+  <li>They facilitate communication among stakeholders and development team</li>
+</ul>
+![alx-booking-uc](https://github.com/user-attachments/assets/2a582e92-6b62-40ee-82af-c86f9f659e07)
+
+
