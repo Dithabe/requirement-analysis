@@ -51,6 +51,9 @@ analyzes, and defines the requirements of the software product to be developed.<
   <li>They help in identifying and organizing system reqiurements</li>
   <li>They facilitate communication among stakeholders and development team</li>
 </ul>
-![alx-booking-uc.png](https://github.com/user-attachments/assets/7ead360c-9011-466c-a6ca-80a09e7445e8)
+
+<h2>Acceptance Criteria</h2>
+<p>Acceptance criteria is needed to establish clear criteria for feature completion. It defines what is referred to as "Done" in a project or in sub-tasks related to a project thereby maintaining quality and meeting user expectations.</p>
+<p>An example of acceptance criteria: "In the checkout journey of the booking process, a user must be able to select the arrival and departure dates from a drop-down calendar option. The selected dates should further be displayed on the reservation page and on the order confirmation email."</p>
 
 
