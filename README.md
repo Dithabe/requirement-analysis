@@ -25,3 +25,20 @@ analyzes, and defines the requirements of the software product to be developed.<
   <li>Requirement Analysis and Modeling - Creating models to visualize and understand requirements</li>
   <li>Requirement Validation - The review and validation of the requirements with stakeholders in addition to defining the acceptance criteria to ensure traceability</li>
 </ul> 
+
+<h2>Types of Requirements</h2>
+<h3>Functional Requirements</h3>
+<p>Functional requirements describe what the system should do. For the case study provided, these are the functional requirements:</p>
+<ul>
+  <li>Hotel Management Service - The hotel managers/owners will be using this to manage hotel related information and services</li>
+  <li>Customer Service (Search + Booking) - Here, customers can search and book a hotel</li>
+  <li>Property listings/View Booking Service - a customer can view old and current bookings on the app.</li>
+</ul>
+<h3>Non-functional Requirements</h3>
+<p>Non-functional requirements describe how the system should perform. FOr the case study provided, these are the non-functional requirements:</p>
+<ul>
+  <li>Performance and Reliability - Content Delivery Network (CDN) and Message Queue Systems have to work together to provide fast delivery on Internet content</li>
+  <li>Usability - The CDN app shows the content to customers like nearby hotels, recommendations, and offers</li>
+  <li>Scalability - Archiving of old data, increasing the database (to handle increased queries) and handling a high volume of data is done with various Database Management Systems</li>
+  <li>Performance - Through Redis, a caching server, requests made for recent data is readily available reducing the loading time on the app side</li>
+</ul>
